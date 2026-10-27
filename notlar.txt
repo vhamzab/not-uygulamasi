@@ -4,3 +4,10 @@ Hafta 1 - Linux Komutlari
 3. pwd   : Su an bulunulan dizinin tam yolunu gosterir.
 4. mkdir : Yeni bir klasor olusturur.
 5. cat   : Dosya icerigini terminale yazdirir.
+
+Hafta 2 - Git Komutlari
+1. git init   : Bulunulan klasoru yeni bir Git reposuna donusturur.
+2. git status : Calisma dizini ve staging area'nin durumunu gosterir.
+3. git add    : Degisiklikleri staging area'ya (bir sonraki commit'e) ekler.
+4. git commit : Staging'deki degisiklikleri mesajla birlikte kalici kayda alir.
+5. git log    : Commit gecmisini listeler.
