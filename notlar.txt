@@ -11,3 +11,6 @@ Hafta 2 - Git Komutlari
 3. git add    : Degisiklikleri staging area'ya (bir sonraki commit'e) ekler.
 4. git commit : Staging'deki degisiklikleri mesajla birlikte kalici kayda alir.
 5. git log    : Commit gecmisini listeler.
+6. git branch   : Branch'leri listeler / yeni branch olusturur.
+7. git checkout : Branch'ler arasinda gecis yapar (-b ile olusturup gecer).
+8. git merge    : Baska bir branch'teki degisiklikleri aktif branch'e birlestirir.
