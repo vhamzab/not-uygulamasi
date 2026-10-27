@@ -1,0 +1,6 @@
+Hafta 1 - Linux Komutlari
+1. ls    : Bulunulan dizindeki dosya ve klasorleri listeler.
+2. cd    : Dizin degistirir (cd klasor, cd .. ile ust dizine cikilir).
+3. pwd   : Su an bulunulan dizinin tam yolunu gosterir.
+4. mkdir : Yeni bir klasor olusturur.
+5. cat   : Dosya icerigini terminale yazdirir.
